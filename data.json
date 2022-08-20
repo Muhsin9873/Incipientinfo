@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Abdul",
+      "surname": "Muhsin",
+      "number": 8606519660,
+      "email": "muhsin@gmail.com",
+      "id": 1,
+      "bought": true
+    }
+  ]
+}
